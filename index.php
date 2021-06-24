@@ -1,3 +1,3 @@
 <?php
-echo 'This is production';
-echo 'This is our new feature';
+$larik = [55,4,55,90,5];
+print_r(array_count_values($larik));
